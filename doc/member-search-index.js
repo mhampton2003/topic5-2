@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"app","c":"PlayStack","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"app","c":"PlayStack","l":"PlayStack()","u":"%3Cinit%3E()"}];updateSearchResults();
